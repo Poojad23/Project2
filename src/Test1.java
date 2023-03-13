@@ -13,6 +13,7 @@ public class FibonacciSeries {
 				int n2=4;
 				int sum=0;
 				System.out.println(" "+n1+" "+n2);
+				System.out.println("Fourth day");
 				
 				for(int i=0;i<5;i++) {
 					sum=n1+n2;
